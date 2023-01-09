@@ -60,10 +60,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
+        "height": 1000,
         "resizable": true,
-        "title": "mew-offline",
-        "width": 800
+        "title": "MEW Offline",
+        "width": 1000
       }
     ]
   }
